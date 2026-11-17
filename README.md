@@ -1,6 +1,6 @@
 
 # Wallpaper-Vault
-All images here are taken from the internet. If you have cool wallpapers to share, feel free to send them!  
+All images in this repository were collected from across the internet. Contributions are welcome, so if you have wallpapers you’d like to share, feel free to submit them!
 
 If you want any image removed, please contact me at *********  
 #
